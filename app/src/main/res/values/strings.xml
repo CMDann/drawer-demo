@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Drawer Demo</string>
+    <string name="title_section1">Selection 1</string>
+    <string name="title_section2">Selection 2</string>
+    <string name="title_section3">Selection 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_one">ActivityOne</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_activity_two">ActivityTwo</string>
+    <string name="title_activity_activity_three">ActivityThree</string>
+    <string name="google_maps_key_instructions" templateMergeStrategy="replace"></string>
+    <string name="google_maps_key" templateMergeStrategy="preserve">GOOGLE_MAP_API_KEY</string>
+
+    <!-- Just some text for the views -->
+    <string name="second_view">This is the second activity, imagine this is a settings page or something!</string>
+    <string name="third_view">This is the third view... what is that over there!?</string>
+
+</resources>
